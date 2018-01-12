@@ -1,0 +1,22 @@
+.Form {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+}
+
+.Inputs {
+	margin: 3px 0;
+	padding: 5px;
+	border-radius: 3px;
+	border:2px solid #4CA4E7
+}
+
+.Button {
+	padding: 5px;
+	border-radius: 3px;
+	border:none;
+	background: #4CA4E7;
+	color:white;
+	cursor: pointer;
+	margin-top: 5px;
+}
